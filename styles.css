@@ -1,7 +1,10 @@
-.table{
-    border: 1px solid black;
-}
-
-.table tr{
-    border: 1px solid black;
-}
+table {
+    border: 2px solid blue;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 2px solid blue;
+    padding: 8px;
+    text-align: left;
+  }
